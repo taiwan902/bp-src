@@ -1,0 +1,176 @@
+/*
+ * Decompiled with CFR 0.145.
+ */
+import java.lang.invoke.MethodHandle;
+import java.lang.invoke.MethodHandles;
+
+public class Class_19225 {
+    public final boolean Field_19226;
+    public final int Field_19227;
+    public final int Field_19228;
+    public final int Field_19229;
+    public final int Field_19230;
+    public final int Field_19231;
+    public final int Field_19232;
+    public final int Field_19233;
+    public final int Field_19234;
+    public final int Field_19235;
+    public final int Field_19236;
+    public final boolean Field_19237;
+    public final float Field_19238;
+    public final int Field_19239;
+    public final boolean Field_19240;
+    public final float Field_19241;
+    public final float Field_19242;
+    public final float Field_19243;
+    public final int Field_19244;
+    public final int Field_19245;
+    public final float Field_19246;
+    public final int Field_19247;
+    public final boolean Field_19248;
+    public final boolean Field_19249;
+    public final int Field_19250;
+    public final float Field_19251;
+    public final int Field_19252;
+    public final int Field_19253;
+    public final int Field_19254;
+    public final int Field_19255;
+    public final int Field_19256;
+    public final boolean Field_19257;
+    public final int Field_19258;
+    public final int Field_19259;
+    public final int Field_19260;
+    public final float Field_19261;
+    public final int Field_19262;
+    public final float Field_19263;
+    public final boolean Field_19264;
+    public final float Field_19265;
+    public final float Field_19266;
+    public final int Field_19267;
+    public final boolean Field_19268;
+    public final int Field_19269;
+    public final float Field_19270;
+    public final int Field_19271;
+    public final float Field_19272;
+    public final float Field_19273;
+    public final int Field_19274;
+    public final int Field_19275;
+    public final boolean Field_19276;
+    public final int Field_19277;
+    public final int Field_19278;
+    public final int Field_19279;
+    public final int Field_19280;
+    public final int Field_19281;
+    public final int Field_19282;
+    public final int Field_19283;
+    public final boolean Field_19284;
+    public final int Field_19285;
+    public final float Field_19286;
+    public final int Field_19287;
+    public final int Field_19288;
+    public final int Field_19289;
+    public final int Field_19290;
+    public final int Field_19291;
+    public final int Field_19292;
+    public final int Field_19293;
+    public final int Field_19294;
+    public final int Field_19295;
+    public final int Field_19296;
+    public final int Field_19297;
+    public final int Field_19298;
+    public final int Field_19299;
+    public final boolean Field_19300;
+    public final float Field_19301;
+    public final int Field_19302;
+    public final float Field_19303;
+
+    private void Method_19304() {
+        MethodHandle methodHandle = MethodHandles.constant(String.class, "MC|BlazingPack");
+    }
+
+    private Class_19225(Class_25402 class_25402) {
+        this.Field_19273 = class_25402.Field_25466;
+        this.Field_19301 = class_25402.Field_25407;
+        this.Field_19251 = class_25402.Field_25438;
+        this.Field_19246 = class_25402.Field_25439;
+        this.Field_19242 = class_25402.Field_25467;
+        this.Field_19266 = class_25402.Field_25456;
+        this.Field_19238 = class_25402.Field_25419;
+        this.Field_19270 = class_25402.Field_25448;
+        this.Field_19241 = class_25402.Field_25472;
+        this.Field_19263 = class_25402.Field_25474;
+        this.Field_19261 = class_25402.Field_25481;
+        this.Field_19243 = class_25402.Field_25404;
+        this.Field_19272 = class_25402.Field_25455;
+        this.Field_19265 = class_25402.Field_25446;
+        this.Field_19303 = class_25402.Field_25413;
+        this.Field_19286 = class_25402.Field_25437;
+        this.Field_19285 = class_25402.Field_25409;
+        this.Field_19300 = class_25402.Field_25418;
+        this.Field_19240 = class_25402.Field_25453;
+        this.Field_19258 = class_25402.Field_25451;
+        this.Field_19276 = class_25402.Field_25420;
+        this.Field_19226 = class_25402.Field_25457;
+        this.Field_19257 = class_25402.Field_25460;
+        this.Field_19248 = class_25402.Field_25477;
+        this.Field_19237 = class_25402.Field_25406;
+        this.Field_19268 = class_25402.Field_25403;
+        this.Field_19284 = class_25402.Field_25444;
+        this.Field_19235 = class_25402.Field_25462;
+        this.Field_19249 = class_25402.Field_25452;
+        this.Field_19255 = class_25402.Field_25440;
+        this.Field_19264 = class_25402.Field_25447;
+        this.Field_19228 = class_25402.Field_25426;
+        this.Field_19252 = class_25402.Field_25473;
+        this.Field_19277 = class_25402.Field_25422;
+        this.Field_19274 = class_25402.Field_25445;
+        this.Field_19232 = class_25402.Field_25454;
+        this.Field_19250 = class_25402.Field_25476;
+        this.Field_19234 = class_25402.Field_25471;
+        this.Field_19295 = class_25402.Field_25443;
+        this.Field_19291 = class_25402.Field_25411;
+        this.Field_19229 = class_25402.Field_25464;
+        this.Field_19282 = class_25402.Field_25428;
+        this.Field_19236 = class_25402.Field_25427;
+        this.Field_19293 = class_25402.Field_25478;
+        this.Field_19245 = class_25402.Field_25465;
+        this.Field_19244 = class_25402.Field_25469;
+        this.Field_19280 = class_25402.Field_25430;
+        this.Field_19288 = class_25402.Field_25405;
+        this.Field_19271 = class_25402.Field_25410;
+        this.Field_19279 = class_25402.Field_25431;
+        this.Field_19298 = class_25402.Field_25458;
+        this.Field_19239 = class_25402.Field_25435;
+        this.Field_19281 = class_25402.Field_25408;
+        this.Field_19302 = class_25402.Field_25416;
+        this.Field_19278 = class_25402.Field_25480;
+        this.Field_19247 = class_25402.Field_25463;
+        this.Field_19230 = class_25402.Field_25424;
+        this.Field_19296 = class_25402.Field_25421;
+        this.Field_19231 = class_25402.Field_25450;
+        this.Field_19259 = class_25402.Field_25414;
+        this.Field_19289 = class_25402.Field_25441;
+        this.Field_19253 = class_25402.Field_25436;
+        this.Field_19275 = class_25402.Field_25432;
+        this.Field_19260 = class_25402.Field_25429;
+        this.Field_19233 = class_25402.Field_25423;
+        this.Field_19287 = class_25402.Field_25442;
+        this.Field_19256 = class_25402.Field_25468;
+        this.Field_19297 = class_25402.Field_25449;
+        this.Field_19267 = class_25402.Field_25470;
+        this.Field_19283 = class_25402.Field_25433;
+        this.Field_19254 = class_25402.Field_25459;
+        this.Field_19299 = class_25402.Field_25412;
+        this.Field_19292 = class_25402.Field_25415;
+        this.Field_19290 = class_25402.Field_25461;
+        this.Field_19227 = class_25402.Field_25425;
+        this.Field_19262 = class_25402.Field_25434;
+        this.Field_19269 = class_25402.Field_25479;
+        this.Field_19294 = class_25402.Field_25417;
+    }
+
+    Class_19225(Class_25402 class_25402, Class_8262 class_8262) {
+        this(class_25402);
+    }
+}
+
