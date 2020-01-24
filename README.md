@@ -1,11 +1,8 @@
-+/- sprzed 2 miesiecy
+blazingpack源代码存档
 
-deobf jar -> https://mega.nz/#!mI90AICD!b8dMv859HRcAEmpyZABeVmWRqPzQxLFbPOakL-AuDmk
+deobf jar/去混淆 .jar -> https://mega.nz/#!mI90AICD!b8dMv859HRcAEmpyZABeVmWRqPzQxLFbPOakL-AuDmk
 
-wrzucam yyy bo kurwa tak jak ktos chce to niech se cos z tym zrobi nwm uzyje zwali do tego konia obojetne mi to
+COPYRIGHT INFO/版权信息:
 
-w natywkach macie jakies prlisty antiinejct i wgl antyhak services a w javce nudy cos tam podjebane z badliona i tyle
-
-COPYRIGHT INFO:
-
+此代码的大部分不属于MOJANG
 MOST PARTS OF THIS CODE BELONG TO MOJANG
